@@ -1,0 +1,31 @@
+.button1{
+    background-color:red;
+    border: 2px solid red;
+    border-radius:50%;
+    float:right;
+    height: 20px;
+    width: 20px;
+    margin-right: 3rem;
+}
+
+.button2{
+    background-color: darkblue;
+    border: 2px solid darkblue;
+    border-radius:50%;
+    float:right;
+    height: 20px;
+    width: 20px;
+    margin-right: 1rem;
+
+}
+
+.button3{
+    background-color: darkgoldenrod;
+    border: 2px solid darkgoldenrod;
+    border-radius:50%;
+    float:right;
+    height: 20px;
+    width: 20px;
+    margin-right: 1rem;
+
+}
